@@ -1,45 +1,45 @@
-## [0.67.1](https://github.com/EddieHubCommunity/LinkFree/compare/v0.67.0...v0.67.1) (2022-05-31)
+## [0.76.7](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.6...v0.76.7) (2022-10-05)
 
 
 ### Bug Fixes
 
-* typo in Shivendu Kumar's profile ([#1344](https://github.com/EddieHubCommunity/LinkFree/issues/1344)) ([168bf27](https://github.com/EddieHubCommunity/LinkFree/commit/168bf27cd5cc5b9347508c119fd304acfacb6c5c))
+* graduation icon syntax ([#1890](https://github.com/EddieHubCommunity/LinkFree/issues/1890)) ([ceb0a99](https://github.com/EddieHubCommunity/LinkFree/commit/ceb0a99a1bc5920dddb3875b64bf2d3d4a3c1030))
 
 
 
-# [0.67.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.66.0...v0.67.0) (2022-05-30)
-
-
-### Features
-
-* deploy purge-css ([6016f9a](https://github.com/EddieHubCommunity/LinkFree/commit/6016f9ab98b6985359d0fd0f3d056dab2c60bf1c))
-
-
-
-# [0.66.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.65.0...v0.66.0) (2022-05-25)
-
-
-### Features
-
-* removed images on homepage ([#1306](https://github.com/EddieHubCommunity/LinkFree/issues/1306)) ([74aa9a8](https://github.com/EddieHubCommunity/LinkFree/commit/74aa9a862c25fa39d2076eb0f69aeeeb002eea0f)), closes [#1264](https://github.com/EddieHubCommunity/LinkFree/issues/1264)
-
-
-
-# [0.65.0](https://github.com/EddieHubCommunity/LinkFree/compare/v0.64.2...v0.65.0) (2022-05-15)
-
-
-### Features
-
-* io domain ([79e500a](https://github.com/EddieHubCommunity/LinkFree/commit/79e500aac111c39aefc1d1c409a1357142f49c1f))
-
-
-
-## [0.64.2](https://github.com/EddieHubCommunity/LinkFree/compare/v0.64.1...v0.64.2) (2022-05-09)
+## [0.76.6](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.5...v0.76.6) (2022-10-03)
 
 
 ### Bug Fixes
 
-* update link to https ([#1284](https://github.com/EddieHubCommunity/LinkFree/issues/1284)) ([96aa23b](https://github.com/EddieHubCommunity/LinkFree/commit/96aa23b188c2ce631fdadd92959c8bd2d315c618))
+* improved the `.dockerignore` ([#1848](https://github.com/EddieHubCommunity/LinkFree/issues/1848)) ([cce9dba](https://github.com/EddieHubCommunity/LinkFree/commit/cce9dba37cb17c43ddec9471b1a4323899ceac3a))
+
+
+
+## [0.76.5](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.4...v0.76.5) (2022-10-01)
+
+
+### Bug Fixes
+
+* update hacktoberfest-invalid label to invalid ([#1850](https://github.com/EddieHubCommunity/LinkFree/issues/1850)) ([b20e5a8](https://github.com/EddieHubCommunity/LinkFree/commit/b20e5a86e5904a661b9612ea492d526988d5eda3))
+
+
+
+## [0.76.4](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.3...v0.76.4) (2022-09-30)
+
+
+### Bug Fixes
+
+* goobric's twitter link ([#1835](https://github.com/EddieHubCommunity/LinkFree/issues/1835)) ([5487a19](https://github.com/EddieHubCommunity/LinkFree/commit/5487a19571a564f6e8e4a05000f909cee3bd9493))
+
+
+
+## [0.76.3](https://github.com/EddieHubCommunity/LinkFree/compare/v0.76.2...v0.76.3) (2022-09-28)
+
+
+### Bug Fixes
+
+* updated discord text ([c83f4c4](https://github.com/EddieHubCommunity/LinkFree/commit/c83f4c40ecce6c5a269d922bf179a46c55627c9a))
 
 
 
